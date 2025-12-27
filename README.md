@@ -1,7 +1,5 @@
 # Data Science and Machine Learning Projects
 
-GitHub stars · GitHub forks · Awesome
-
 This repository contains a curated collection of Data Science and Machine Learning projects with source code. All listed projects are sourced from the following GitHub repository: [https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code](https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code). It includes articles, GitHub repositories, and Kaggle notebooks (kernels) covering a wide range of real-world problems and use cases.
 
 The goal of this repository is to help learners and practitioners explore practical applications of data science and machine learning through hands-on projects.
